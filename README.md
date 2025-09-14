@@ -32,7 +32,14 @@ It allows you to browse, search, and manage folders and files on your local mach
 
 ## Screenshots
 
-*You can add screenshots here after running the app.*
+### Main Interface
+![Main Interface](assets/1.png)
+
+### Search & Tree View
+![Search & Tree View](assets/2.png)
+
+### Search & Tree View
+![Search & Tree View](assets/3.png)
 
 ---
 
