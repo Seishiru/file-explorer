@@ -29,3 +29,5 @@ Thumbs.db
 
 # Electron cache
 *.asar
+
+.zip
